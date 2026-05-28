@@ -240,6 +240,7 @@ After connecting with web team, live traffic log showed:
 - Requests successfully forwarded to 172.24.30.12
 - All requests returned HTTP 200 (success)
 - Round robin distribution confirmed working
+<img width="1116" height="647" alt="WhatsApp Image 2026-05-28 at 10 11 40 PM" src="https://github.com/user-attachments/assets/c788c0a5-0c70-4a76-8f8f-a98bae87ca17" />
 
 ---
 
